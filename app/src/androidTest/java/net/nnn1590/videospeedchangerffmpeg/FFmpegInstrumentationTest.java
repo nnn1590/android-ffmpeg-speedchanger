@@ -1,4 +1,4 @@
-package com.github.hiteshsondhi88.sampleffmpeg;
+package net.nnn1590.videospeedchangerffmpeg;
 
 import android.os.Environment;
 import android.test.ActivityInstrumentationTestCase2;
